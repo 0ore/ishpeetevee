@@ -11,7 +11,7 @@ http://103.140.3.18:11176/cinemo/dopamine/manifest.mpd
 http://103.140.3.18:11176/cinemaone/dopamine/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363331363736373234333532363730:684b6853695333444a6b345579376a61
+#KODIPROP:inputstream.adaptive.license_key=31363232353335323435353337353331:35416a68643065697575493337566135
 #EXTINF:0 tvg-id="cinemaone" tvg-logo="https://i.imgur.com/geuq18u.png" group-title="CONVERGE", GTV
 http://103.140.3.18:11176/gtv/dopamine/manifest.mpd
 
