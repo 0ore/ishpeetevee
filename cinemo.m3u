@@ -1,0 +1,6 @@
+#EXTM3U 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=31363331363735393833333531383134:4a4f75336e6e30764575624855326937
+#EXTINF:0 tvg-id="a2z" tvg-logo="https://i.imgur.com/4xDiXMP.png" group-title="CONVERGE", CINEMO TEST
+http://103.140.3.18:11176/cinemo/dopamine/manifest.mpd
