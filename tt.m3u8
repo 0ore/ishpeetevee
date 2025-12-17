@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, Dummy Channel
+#EXTINF:-1, Aniplus
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=widevine
