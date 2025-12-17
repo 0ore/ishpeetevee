@@ -3,6 +3,6 @@
 #EXTINF:-1, Dummy Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"rJAPQFP6QgCV-4T0kfejMQ","k":"WXSHJZZP8nXlJK9zeSyK1A"}],"type":"temporary"}
-https://mc-9lp4e5m17f.bunny.run/sportstars3/dopamine/manifest.mpd?token=b072929622e107c1e27a51ddfb943ceb&user=yondaime&exp=176571541
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=http://192.168.1.6:8080//license?id=YV98nmA67QAR
+http://192.168.1.6:8080/manifest/e5yqQB4Q3k05.mpd
